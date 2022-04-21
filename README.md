@@ -7,7 +7,7 @@ Tfvars file to modify variables.
 
 ## Prerequisites
 Need AWS CLI access or IAM user access with policies attached for S3.
-Terraform need to be installed. Click to download [Terraform](https://www.terraform.io/downloads "Terraform").
+Terraform need to be installed. Click to download [Terraform](https://www.terraform.io/downloads "https://www.terraform.io/downloads").
 
 ## Variables
 ```terraform
