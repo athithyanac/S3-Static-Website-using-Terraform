@@ -1,0 +1,5 @@
+access_key = "AKIA3J2K74BOTIIFXH33"
+secret_key = "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"
+project = "zomato"
+region  = "ap-south-1"
+domain = "adiadi.ml"
