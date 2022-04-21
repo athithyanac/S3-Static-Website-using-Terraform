@@ -1,7 +1,13 @@
 # S3-Website-using-Terraform
+## Features
+Easy to customise and use.
+Each CIDR subnet block created using cidrsubnet().
+Tfvars file to modify variables.
 
-## Prerequisite
-AWS S3 access, access key and secret key.
+
+## Prerequisites
+Need AWS CLI access or IAM user access with policies attached for S3.
+Terraform need to be installed. Click to download [Terraform](https://www.terraform.io/downloads "Terraform").
 
 ## Variables
 ```terraform
@@ -30,6 +36,7 @@ variable "mime_types" {
     }
 }
 ```
+
 ## Create an S3 bucket
 ```terraform
 resource "aws_s3_bucket" "mybucket" {
