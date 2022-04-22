@@ -1,5 +1,1 @@
-access_key = "specify access key"
-secret_key = "specify secret key"
-project = "project name"
-region  = "region"
-domain = "domain name"
+
